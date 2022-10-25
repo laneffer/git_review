@@ -1,0 +1,24 @@
+Refresher
+
+pwd prints current working directory
+ls for items in directory
+ls -F adds marker to files and directories
+mkdir for directories
+nano or touch for new files
+cd .. for parent of current directory
+cd - for previous directory
+rm removes files
+rm -r for recursive to remove directories: no confirmation
+* for 0 or more char *.txt shows all files ending in .txt
+? for any single char ?.txt shows a.txt not app.txt
+cat for printing file content
+useful in redirecting commands to new files rather than seeing output in window at a given time
+echo for printing strings
+sort for ordering
+wc for word count: shows l w m
+wc -l for line count
+wc -w for number of words count
+wc -m for number of char count
+command > file for redirecting contents: overwrites if existing
+command >> file for append
+command | command for multiple commands together
